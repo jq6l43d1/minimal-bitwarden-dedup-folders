@@ -1,5 +1,10 @@
-This is a minimal script to remove exact duplicates from a BitWarden vault, intended to be easy to review.
-Approximately 20 source lines of Python with no dependencies except the JSON standard library.
+This is a script to remove duplicate entries and folders from a BitWarden vault.
+This script also prunes empty folders.
+No dependencies except the JSON standard library.
+
+This is a fork of https://github.com/DustinWehr/minimal-bitwarden-dedup
+
+I'd like to thank Dustin Wehr for his wonderful script.
 
 # Usage
 
