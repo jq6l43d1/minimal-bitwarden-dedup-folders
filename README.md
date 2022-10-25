@@ -59,8 +59,3 @@ Google how to do this for your BitWarden client.
 
 We could overwrite your secrets on the RAM disk, but I can't do anything foolproof in python about the temporary memory that the script uses, which also contained your unencrypted secrets, so turn off and then on your computer now to clear your RAM.
 
-# Test
-
-```
-$ python3 run_tests.py
-```
